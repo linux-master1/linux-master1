@@ -16,7 +16,7 @@ embedded systems | hardware | low-level | programming
 ## projects
 - esp32 smart weather station clock
 - esp32 bluetooth mouse
-- arduino nano rtc weather clock
-- esp8266 water leak sensor with telegram alerts
+- arduino nano rtc clock with dht11
+- esp8266 water leak sensor with telegram bot alerts
 - arduino nano timer / stopwatch with sound
 
