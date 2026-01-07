@@ -19,4 +19,5 @@ embedded systems | hardware | low-level | programming
 - arduino nano rtc clock with dht11
 - esp8266 water leak sensor with telegram bot alerts
 - arduino nano timer / stopwatch with sound
+- cardputer synthesizer 
 
