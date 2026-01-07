@@ -1,16 +1,22 @@
-## Hi there 👋
+# linux_master1
 
-<!--
-**linux-master1/linux-master1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+embedded systems | hardware | low-level | programming 
 
-Here are some ideas to get you started:
+## stack
+- c / c++
+- python
+- html
+- arduino
+- linux
+- electronics
+- soldering
+- microcontrollers
+- osint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects
+- esp32 smart weather station clock
+- esp32 bluetooth mouse
+- arduino nano rtc weather clock
+- esp8266 water leak sensor with telegram alerts
+- arduino nano timer / stopwatch with sound
+
