@@ -1,4 +1,4 @@
-# linux_master1
+# i'm linux_master1
 
 embedded systems | hardware | low-level | programming 
 
