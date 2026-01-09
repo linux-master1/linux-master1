@@ -12,6 +12,7 @@ embedded systems | hardware | low-level | programming
 - soldering
 - microcontrollers
 - osint
+- pentest
 
 ## projects
 - esp32 smart weather station clock
